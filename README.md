@@ -2,6 +2,6 @@
 test-repository hello world
 my very first test
 
-That is the first changes in branched readme file.
+That is the first change in branched readme file.
 
 
